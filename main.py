@@ -14,9 +14,9 @@ def browse_files():
 
 # Start combining
 def merge_files():
-	fout = open("{}.csv".format(file_name.get()), "a")
+	fout = open("{}.csv".format(file_name.get()), "a", encoding='utf-8-sig')
 	for num in range(0, len(file_path)):
-		f = open(file_path[num])
+		f = open(file_path[num], encoding='utf-8-sig')
 		if skip_check.get() == 1:
 			next(f)
 		for line in f:
