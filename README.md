@@ -15,31 +15,33 @@
 - Click Create to merge/combine your files in one file.<br>
 ![Image CREATE](https://i.ibb.co/CVC31f9/3.jpg)
 
-Your saved file will be beside main.py.
+Your saved file will be beside main.py.<br>
 
--- Thanks to:
-SilentGhost;
-moooeeeep;
-Ashwinee K Jha;
-wisty;
-senshin;
+-- Thanks to:<br>
+SilentGhost;<br>
+moooeeeep;<br>
+Ashwinee K Jha;<br>
+wisty;<br>
+senshin;<br>
+vrkratheesh;<br>
   -> from stackoverflow.com
-
--- and special thanks to:
-Bilal Boukerma;
-Youcef Mégoura;
-Rwo Oo;
-Lion Aures;
-Nîzàr Môuhssine;
-Sara Chikhi;
-IS Lam;
-Lyly Loulou Lala;
-Abdenour Nonor Belkalem;
+<br>
+-- and special thanks to:<br>
+Bilal Boukerma;<br>
+Youcef Mégoura;<br>
+Rwo Oo;<br>
+Lion Aures;<br>
+Nîzàr Môuhssine;<br>
+Sara Chikhi;<br>
+IS Lam;<br>
+Lyly Loulou Lala;<br>
+Abdenour Nonor Belkalem;<br>
 ;عم صالح
-Tou Fik;
-Mustapha Lounici;
-Faiza Wali;
-Youcef Mahdjoub;
-Abd El Wadoud;
-Majid Lenorman;
-  -> from DZ DEVELOPPEURS groupe on FACEBOOK.
+<br>
+Tou Fik;<br>
+Mustapha Lounici;<br>
+Faiza Wali;<br>
+Youcef Mahdjoub;<br>
+Abd El Wadoud;<br>
+Majid Lenorman;<br>
+  -> from DZ DEVELOPPEURS groupe on FACEBOOK.<br>
