@@ -18,27 +18,28 @@
 Your saved file will be beside main.py.
 
 -- Thanks to:
-SilentGhost
-moooeeeep
-Ashwinee K Jha
-wisty
+SilentGhost;
+moooeeeep;
+Ashwinee K Jha;
+wisty;
+senshin;
   -> from stackoverflow.com
 
 -- and special thanks to:
-Bilal Boukerma
-Youcef Mégoura
-Rwo Oo
-Lion Aures
-Nîzàr Môuhssine
-Sara Chikhi
-IS Lam
-Lyly Loulou Lala
-Abdenour Nonor Belkalem
-عم صالح
-Tou Fik
-Mustapha Lounici
-Faiza Wali
-Youcef Mahdjoub
-Abd El Wadoud
-Majid Lenorman
+Bilal Boukerma;
+Youcef Mégoura;
+Rwo Oo;
+Lion Aures;
+Nîzàr Môuhssine;
+Sara Chikhi;
+IS Lam;
+Lyly Loulou Lala;
+Abdenour Nonor Belkalem;
+;عم صالح
+Tou Fik;
+Mustapha Lounici;
+Faiza Wali;
+Youcef Mahdjoub;
+Abd El Wadoud;
+Majid Lenorman;
   -> from DZ DEVELOPPEURS groupe on FACEBOOK.
